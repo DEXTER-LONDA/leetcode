@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/DEXTER-LONDA/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DEXTER-LONDA/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Array
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/DEXTER-LONDA/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/DEXTER-LONDA/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
