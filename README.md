@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/DEXTER-LONDA/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/DEXTER-LONDA/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DEXTER-LONDA/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/DEXTER-LONDA/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Stack
 |  |
 | ------- |
@@ -30,8 +31,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/DEXTER-LONDA/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/DEXTER-LONDA/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/DEXTER-LONDA/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/DEXTER-LONDA/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 <!---LeetCode Topics End-->
