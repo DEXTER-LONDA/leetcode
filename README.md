@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/DEXTER-LONDA/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DEXTER-LONDA/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/DEXTER-LONDA/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEXTER-LONDA/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DEXTER-LONDA/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DEXTER-LONDA/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DEXTER-LONDA/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEXTER-LONDA/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/DEXTER-LONDA/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEXTER-LONDA/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sorting
 |  |
 | ------- |
