@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/DEXTER-LONDA/leetcode/tree/master/0665-non-decreasing-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DEXTER-LONDA/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/DEXTER-LONDA/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/DEXTER-LONDA/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1833-maximum-ice-cream-bars](https://github.com/DEXTER-LONDA/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEXTER-LONDA/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Search
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/DEXTER-LONDA/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DEXTER-LONDA/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/DEXTER-LONDA/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/DEXTER-LONDA/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEXTER-LONDA/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Hash Table
 |  |
