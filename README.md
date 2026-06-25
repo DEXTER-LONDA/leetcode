@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DEXTER-LONDA/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1833-maximum-ice-cream-bars](https://github.com/DEXTER-LONDA/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEXTER-LONDA/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DEXTER-LONDA/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/DEXTER-LONDA/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/DEXTER-LONDA/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DEXTER-LONDA/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/DEXTER-LONDA/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DEXTER-LONDA/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
