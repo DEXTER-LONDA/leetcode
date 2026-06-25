@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/DEXTER-LONDA/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DEXTER-LONDA/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/DEXTER-LONDA/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2390-removing-stars-from-a-string](https://github.com/DEXTER-LONDA/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3941-password-strength](https://github.com/DEXTER-LONDA/leetcode/tree/master/3941-password-strength) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/DEXTER-LONDA/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DEXTER-LONDA/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/DEXTER-LONDA/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0788-rotated-digits](https://github.com/DEXTER-LONDA/leetcode/tree/master/0788-rotated-digits) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/DEXTER-LONDA/leetcode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
