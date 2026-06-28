@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/DEXTER-LONDA/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DEXTER-LONDA/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DEXTER-LONDA/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/DEXTER-LONDA/leetcode/tree/master/3909-compare-sums-of-bitonic-parts) |
 ## Binary Search
 |  |
 | ------- |
